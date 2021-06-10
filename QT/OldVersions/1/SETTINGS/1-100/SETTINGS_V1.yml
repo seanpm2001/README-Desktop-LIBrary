@@ -1,0 +1,18 @@
+# Start of script
+# Header
+settings: "README Desktop LIBrary settings"
+active: "Default"
+
+# Settings for the preview of the README file
+options: "options"
+top: "disabled"
+bottom: "default/enabled"
+middle: "disabled"
+popout: "disabled"
+left: "disabled"
+right: "disabled"
+# File info
+# File type: YAML source file (*.yml)
+# File version: 1 (Wednesday, June 9th 2021 at 9:22 pm)
+# Line count (including blank lines and compiler line): 19
+# End of script
