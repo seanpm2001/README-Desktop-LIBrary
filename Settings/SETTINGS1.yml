@@ -1,0 +1,56 @@
+# Start of script
+# Settings for the README desktop library
+types {
+  markdownSupport: true # Supports MD MKD MARKDOWN
+  htmlSupport: true # Supports HTM HTML XHTM XHTML MHTM MHTML
+  restructuredTextSupport: true # Supports RST
+  imageSupport: true # Supports JPG, JPEG, JFIF, JIF, GIF, SVG, PNG, PNS, APNG, TIF, TIFF, BMP, DIB, HEIF, and WEBP
+}
+previewMax {
+  maxPreviewChar: 5000 # Max characters supported for the current directory by the user
+  fmaxPreviewChar: 8000000000 # Max characters supported by the application itself
+  maxPreviewLine: 300 # Max lines supported for the current directory by the user
+  fmaxPreviewLine: 4000000 # Max lines supported by the application itself
+}
+previewMin {
+  minPreviewChar: 250 # Minimum characters supported for the current directory by the user
+  fminPreviewChar: 8000000000 # Minimum characters supported by the application itself
+  minPreviewLine: 50 # Minimum lines supported for the current directory by the user
+  fminPreviewLine: 4000000 # Minimum lines supported by the application itself
+}
+fontSupport {
+  arialFont: true
+  courierFont: true
+  # More fonts to be added here
+}
+backgroundColor {
+  backgroundColorCustom: true # Allows for a background color that is different than the system default
+  bgcolor_alignWithSystem: true # Allows for the background color to align with the system default
+}
+appExtenions {
+  extendToBrowser: true # Extends the README preview to web browsers
+  Tor: true
+  Firefox: true
+  SeaMonkey: true
+  WaterFox: true
+  IceRaven: true
+  Konquerer: true
+  K-Meleon: true
+  Chrome: false
+  Brave: false
+  browserExtendType: "align with other settings"
+}
+bookmarkSupport {
+  bookmarkSupport: true # Allows README files and previews in bookmark menus
+  bookmarkSupportType: "align with other settngs"
+}
+glossary {
+  glossarySupport: true # Allows for a README glossary/table of contents dropdown
+  glossarySupportType: "align with current file"
+}
+# File info
+# File type: YAML source file (*.yml *.yaml
+# File version: 1 (Wednesday, 2021 September 8th at 3:19 pm)
+# Line count (including blank lines and compiler line): 57
+
+#End of script
