@@ -1,0 +1,9 @@
+>$README_DTOP_LINUX_V0.01{{CONFIG.yml}}
+# README desktop configuration for this directory
+# /DIR/DIR/DIRNAME_HERE/
+readme_desktop_active: true
+readme_desktop_mode: "markdown"
+import_settings: "///path/"
+{
+settings_go_here: null
+}
